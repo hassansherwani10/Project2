@@ -1,0 +1,10 @@
+@media (max-width: 680px){
+    .logo{
+        height: 35px;
+        width: 150px;
+    }
+
+    h1{
+        block-size: 100px;
+    }
+}
